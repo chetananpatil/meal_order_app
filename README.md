@@ -27,4 +27,4 @@ Manages the state for selected meals.
 Contains an array of labels and an array of meals with associated data such as id, title, starter, desert, price, labels, image (img), and drinks.
 
 The app should now be running on http://localhost:3000.
-To start app give command npm start
+To start app give command npm run start
